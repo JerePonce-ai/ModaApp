@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.ModaApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/rosa_moda</item>
+    </style>
+
+    <style name="Theme.ModaApp" parent="Base.Theme.ModaApp">
+        <item name="android:statusBarColor">@color/rosa_moda</item>
+        <item name="android:navigationBarColor">@color/fondo_app</item>
+    </style>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="rosa_moda">#C2185B</color>
+    <color name="rosa_claro">#FCE4EC</color>
+    <color name="rosa_avatar">#F8BBD0</color>
+    <color name="fondo_app">#FAFAFA</color>
+    <color name="texto_principal">#222222</color>
+    <color name="texto_secundario">#888888</color>
+    <color name="borde">#DDDDDD</color>
+
+</resources>
